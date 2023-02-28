@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robin, a junior web developer. I try to code web applications when I'm not coding web applications.
+I'm Robin, a junior web developer. I try to code web apps when I'm not coding web apps.
 
 - 🔭 I’m currently working on several Symfony / Vue.js projects.
 - 🌱 I’m currently learning Symfony & Vue.js.
