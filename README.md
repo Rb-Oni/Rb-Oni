@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robin, a junior web developer. I try to code web apps when I'm not coding web apps.
+I'm Robin, an Analyst developer. I try to code web apps when I'm not coding web apps.
 
 - 🔭 I’m currently working on several React projects.
 - 🌱 I’m currently learning React.
