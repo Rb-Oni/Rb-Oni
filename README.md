@@ -2,8 +2,8 @@
 
 I'm Robin, a junior web developer. I try to code web apps when I'm not coding web apps.
 
-- 🔭 I’m currently working on several Symfony / Vue.js projects.
-- 🌱 I’m currently learning Symfony & Vue.js.
+- 🔭 I’m currently working on several React projects.
+- 🌱 I’m currently learning React.
 - 💬 Feel free to ask me anything !
 
 <!--
