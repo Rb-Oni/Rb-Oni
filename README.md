@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robin. I try to code web apps when I'm not coding web apps.
+I'm Robin. I try to code when I'm not coding.
 
 - 🔭 I’m currently working on several projects (React, Quarkus, SalesForce).
 - 🌱 I’m currently learning Quarkus.
